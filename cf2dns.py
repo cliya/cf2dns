@@ -17,7 +17,7 @@ KEY = "o1zrmHAF"
 #修改需要更改的dnspod域名和子域名
 DOMAINS = {
    "97822.com": {"@": ["CM","CU","CT"], "www": ["CM", "CU", "CT"]},
-   "gzdui.me": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]}
+   "gzdui.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]}
 }
 
 #解析生效条数 免费的DNSPod相同线路最多支持2条解析
