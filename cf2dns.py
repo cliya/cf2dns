@@ -16,8 +16,8 @@ KEY = "o1zrmHAF"
 #CM:移动 CU:联通 CT:电信  AB:境外 DEF:默认
 #修改需要更改的dnspod域名和子域名
 DOMAINS = {
-    "hostxxnit.com": {"@": ["CM","CU","CT"], "shop": ["CM", "CU", "CT"], "stock": ["CM","CU","CT"]},
-    "484848.xyz": {"@": ["CM","CU","CT"], "shop": ["CM","CU","CT"]}
+   {"97822.com": {"@": ["CM","CU","CT"],
+   "gzdui.com": {"@": ["CM","CU","CT"]
 }
 
 #解析生效条数 免费的DNSPod相同线路最多支持2条解析
